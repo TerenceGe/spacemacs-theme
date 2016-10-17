@@ -461,7 +461,7 @@
      `(font-latex-string-face ((,class (:foreground ,str))))
 
 ;;;;; linum-mode
-     `(linum ((,class (:foreground ,lnum :background ,bg2))))
+     `(linum ((,class (:foreground ,lnum :background ,bg1))))
 
 ;;;;; linum-relative
      `(linum-relative-current-face ((,class (:foreground ,comp))))
